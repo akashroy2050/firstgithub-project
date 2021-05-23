@@ -1,0 +1,66 @@
+[33mcommit 917875dfb19d172f94e9b59c80e04aceb810abc1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sun May 23 12:23:30 2021 +0530
+
+    Name
+
+[33mcommit f64caa2e2710d81371ffa04b7f2eecbaf1d6ade7[m
+Merge: bf828db 843818b
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sat May 22 16:01:16 2021 +0530
+
+    resolved merge conflict
+
+[33mcommit bf828db09a1072cfbd65d1293b045d7eeef49004[m
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sat May 22 15:55:23 2021 +0530
+
+    change merge.txt in main
+
+[33mcommit 843818b32346a1730ba202d7682bf64ae30e5421[m[33m ([m[1;32mnew_branch2[m[33m)[m
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sat May 22 15:53:27 2021 +0530
+
+    changed merge txt file
+
+[33mcommit abd1d2a2b4c56f68d527b0ffce6aab44405a1fd0[m
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sat May 22 15:49:13 2021 +0530
+
+    latest update2
+
+[33mcommit ac6932b99d352154b0880f006b0b2af4161ff77b[m[33m ([m[1;32mnew_branch1[m[33m)[m
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sat May 22 15:36:52 2021 +0530
+
+    latest update
+
+[33mcommit fce14274befd28ba286600a857b0dd6fde6d6b9b[m[33m ([m[1;31morigin/feature-1[m[33m, [m[1;32mfeature-1[m[33m)[m
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sun May 9 15:53:35 2021 +0530
+
+    added 1 line
+
+[33mcommit 953e84c4a43f2697261da7f172dfbdee89936c16[m
+Author: akashroy2050 <83678616+akashroy2050@users.noreply.github.com>
+Date:   Sat May 8 16:51:54 2021 +0530
+
+    Update f.sql
+
+[33mcommit 1522d05397dc7a6ba8c83c3fd122f1ccf4f00b04[m
+Author: Akash <akashroy2050@gmail.com>
+Date:   Sat May 8 16:42:43 2021 +0530
+
+    created my first spl script
+
+[33mcommit f5f018f0fada39d0541da501eea1cba4901484ff[m
+Author: akashroy2050 <83678616+akashroy2050@users.noreply.github.com>
+Date:   Sat May 8 16:17:06 2021 +0530
+
+    Create First-code
+
+[33mcommit 5c79744034eb8654815f92efffdf765825cf4b96[m
+Author: akashroy2050 <83678616+akashroy2050@users.noreply.github.com>
+Date:   Sat May 8 16:10:24 2021 +0530
+
+    Initial commit
